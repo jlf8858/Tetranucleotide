@@ -1,2 +1,2 @@
 # Tetranucleotide
-Tetranucleotide caculation
+a perl script for tetranucleotide caculation
